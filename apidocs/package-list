@@ -1,3 +1,7 @@
 eu.agilejava.snoop
 eu.agilejava.snoop.annotation
+eu.agilejava.snoop.api
 eu.agilejava.snoop.client
+eu.agilejava.snoop.config
+eu.agilejava.snoop.scan
+eu.agilejava.snoop.ui
